@@ -63,6 +63,14 @@ Déployer, tester, dépanner et documenter. Un lab pour expérimenter la virtual
 
 ## À découvrir
 
+### 🎧 [Fréquence 3 — application iOS](https://apps.apple.com/us/app/fr%C3%A9quence-3/id641492127)
+
+L’application iPhone et iPad que je développe bénévolement pour **Fréquence 3** : écouter la radio et ses différentes stations, retrouver les titres diffusés et emporter la musique en voiture grâce à **CarPlay**.
+
+Un projet qui réunit développement iOS, streaming audio et intégration à l’écosystème Apple.
+
+[![Disponible sur l’App Store](https://img.shields.io/badge/Télécharger_sur_l’App_Store-0D1117?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/fr%C3%A9quence-3/id641492127)
+
 ### 🔐 [PassLab](https://passlab.mauras.fr)
 Mon générateur de mots de passe et de phrases de passe, accessible depuis un navigateur sur ordinateur ou mobile.
 
