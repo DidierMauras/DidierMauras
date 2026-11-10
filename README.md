@@ -13,11 +13,13 @@ Des apps, des scripts et un homelab pour mettre les idées en pratique.
 
 ## Salut, moi c’est Didier 👋
 
-Technicien informatique et développeur web & iOS, basé en Alsace.
+Expert technique, orienté systèmes, réseaux et automatisation. Également développeur web & iOS, basé en Alsace.
 
 J’aime comprendre comment les choses fonctionnent, créer mes propres outils et automatiser les tâches du quotidien. Ici, je rassemble mes projets et mes expérimentations : de SwiftUI à Debian, en passant par PowerShell.
 
-Mon parcours mêle support technique, développement web et administration de serveurs. Je continue à approfondir les systèmes et les réseaux en formation **TSSR** et dans mon homelab.
+Plus de 14 ans chez Apple m’ont donné une maîtrise approfondie de son écosystème. J’interviens aussi bien sur les logiciels et les services, en accompagnant les utilisateurs, que sur le diagnostic et la réparation matérielle des appareils Apple.
+
+Je continue à approfondir les systèmes et les réseaux en formation **TSSR** et dans mon homelab.
 
 ## Mon terrain de jeu
 
