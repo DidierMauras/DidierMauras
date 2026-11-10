@@ -44,9 +44,9 @@ Administration, sauvegardes, maintenance et préparation d’environnements. Aut
 <td width="50%" valign="top">
 
 ### 🖥️ Systèmes & Réseaux
-**Linux · Debian · Windows Server · Active Directory · GPO**
+**Linux · Debian · Windows Server · Active Directory**
 
-Services web, gestion des identités, DNS, segmentation réseau et VLAN, pare-feu et VPN.
+Services web, gestion des identités, stratégies de groupe (GPO), DNS, segmentation réseau et VLAN, pare-feu et VPN.
 
 </td>
 <td width="50%" valign="top">
