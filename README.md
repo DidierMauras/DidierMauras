@@ -44,7 +44,7 @@ Administration, sauvegardes, maintenance et préparation d’environnements. Aut
 <td width="50%" valign="top">
 
 ### 🖥️ Systèmes & Réseaux
-**Debian · Windows Server · Active Directory**
+**Linux · Debian · Windows Server · Active Directory**
 
 Services web, gestion des identités, DNS, segmentation réseau et VLAN, pare-feu et VPN.
 
