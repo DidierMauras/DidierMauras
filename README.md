@@ -52,7 +52,7 @@ Services web, gestion des identités, DNS, segmentation réseau et VLAN, pare-fe
 <td width="50%" valign="top">
 
 ### 🧪 TSSR & Homelab
-**Proxmox · UniFi · pfSense · Home Assistant**
+**Proxmox · Ubiquiti UniFi · pfSense · Home Assistant**
 
 Déployer, tester, dépanner et documenter. Un lab pour expérimenter la virtualisation, la disponibilité et la supervision.
 
