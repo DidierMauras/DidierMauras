@@ -5,7 +5,7 @@
 
 Des apps, des scripts et un homelab pour mettre les idées en pratique.
 
-[![Web](https://img.shields.io/badge/mauras.fr-111827?style=for-the-badge&logo=safari&logoColor=white)](https://www.mauras.fr) [![PassLab](https://img.shields.io/badge/PassLab-0F766E?style=for-the-badge&logo=bitwarden&logoColor=white)](https://passlab.mauras.fr) [![Fréquence 3](https://img.shields.io/badge/Fréquence_3-FCC500?style=for-the-badge&logo=appstore&logoColor=181818)](https://apps.apple.com/us/app/fr%C3%A9quence-3/id641492127)
+[![Web](https://img.shields.io/badge/mauras.fr-111827?style=for-the-badge&logo=safari&logoColor=white)](https://www.mauras.fr) [![PassLab](https://img.shields.io/badge/PassLab-0F766E?style=for-the-badge&logo=bitwarden&logoColor=white)](https://passlab.mauras.fr)
 
 </div>
 
