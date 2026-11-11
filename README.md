@@ -1,7 +1,7 @@
 <div align="center">
 
 # Didier Mauras
-### Développement · Automatisation · Systèmes & Réseaux
+### Systèmes & Réseaux · Automatisation · Développement
 
 Des apps, des scripts et un homelab pour mettre les idées en pratique.
 
@@ -19,7 +19,9 @@ J’aime comprendre comment les choses fonctionnent, créer mes propres outils e
 
 Plus de 14 ans chez Apple m’ont donné une maîtrise approfondie de son écosystème. J’interviens aussi bien sur les logiciels et les services, en accompagnant les utilisateurs, que sur le diagnostic et la réparation matérielle des appareils Apple.
 
-Je continue à approfondir les systèmes et les réseaux en formation **TSSR** et dans mon homelab.
+Lors d’ouvertures d’Apple Store, j’ai également participé à la préparation des équipements, au déploiement et aux tests de l’infrastructure aux côtés des équipes IS&T. Mon rôle d’IS&T Champion comprenait le suivi des incidents, les escalades vers le support et les interventions sur site.
+
+Depuis septembre 2026, je prépare le titre de **Technicien supérieur systèmes et réseaux (TSSR)**. Je consolide cette spécialisation par des déploiements et des tests dans mon homelab.
 
 ## Mon terrain de jeu
 
@@ -75,8 +77,15 @@ Un projet qui réunit développement iOS, streaming audio et intégration à l�
 ### 🔐 [PassLab](https://passlab.mauras.fr)
 Mon générateur de mots de passe et de phrases de passe, accessible depuis un navigateur sur ordinateur ou mobile.
 
-### 🛠️ Au fil des publications
-Cet espace accueillera progressivement mes scripts Bash et PowerShell, mes projets Swift et mes procédures systèmes & réseaux, avec leurs prérequis et des exemples d’utilisation.
+## 🛠️ Réalisations systèmes & réseaux
+
+| Projet | Démarche et résultats |
+| :--- | :--- |
+| [Redondance Active Directory](projets/active-directory.md) | Deux contrôleurs, diagnostic DNS et filtrage réseau, authentification testée pendant une panne. |
+| [Provisionnement Web Debian](projets/provisionnement-web.md) | Automatisation Bash d'un environnement Apache/PHP/MariaDB/FTP et de sa suppression. |
+| [Segmentation du homelab](projets/reseau-homelab.md) | VLAN, règles d'accès, administration UniFi et accès distant par VPN. |
+
+Chaque fiche présente le besoin, les actions réalisées, les vérifications et les limites. Mes scripts et configurations de laboratoire sont conservés dans des dépôts privés.
 
 ---
 
