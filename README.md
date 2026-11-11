@@ -5,7 +5,7 @@
 
 Des apps, des scripts et un homelab pour mettre les idées en pratique.
 
-[![Web](https://img.shields.io/badge/mauras.fr-111827?style=for-the-badge&logo=safari&logoColor=white)](https://www.mauras.fr) [![PassLab](https://img.shields.io/badge/PassLab-0F766E?style=for-the-badge&logo=bitwarden&logoColor=white)](https://passlab.mauras.fr)
+[![Web](https://img.shields.io/badge/mauras.fr-111827?style=for-the-badge&logo=safari&logoColor=white)](https://www.mauras.fr) [![PassLab](https://img.shields.io/badge/PassLab-0F766E?style=for-the-badge&logo=bitwarden&logoColor=white)](https://passlab.mauras.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/didiermauras/)
 
 </div>
 
@@ -29,24 +29,6 @@ Depuis septembre 2026, je prépare le titre de **Technicien supérieur systèmes
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Apps & Web
-**Swift · SwiftUI · PHP · JavaScript**
-
-Applications iOS, projets web et outils du quotidien. Des idées qui deviennent des interfaces simples et utiles.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Scripts & Automatisation
-**Bash · PowerShell · Raccourcis Apple**
-
-Administration, sauvegardes, maintenance et préparation d’environnements. Automatiser les tâches répétitives et garder des outils réutilisables.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🖥️ Systèmes & Réseaux
 **Linux · Debian · Windows Server · Active Directory**
 
@@ -62,17 +44,44 @@ Déployer, tester, dépanner et documenter. Un lab pour expérimenter la virtual
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Scripts & Automatisation
+**Bash · PowerShell · Raccourcis Apple**
+
+Administration, sauvegardes, maintenance et préparation d’environnements. Automatiser les tâches répétitives et garder des outils réutilisables.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Apps & Web
+**Swift · SwiftUI · PHP · JavaScript**
+
+Applications iOS, projets web et outils du quotidien. Des idées qui deviennent des interfaces simples et utiles.
+
+</td>
+</tr>
 </table>
+
+## Formation & pratique technique
+
+- **TSSR — en cours à l’AFPA depuis septembre 2026** : administration Windows/Linux, réseaux, virtualisation et maintien en condition opérationnelle, selon le référentiel 2026 intégrant l’usage professionnel de l’IA.
+- **Cisco Networking Academy — CCNA 1 : Introduction to Networks, en cours** : fondamentaux réseau, IPv4/IPv6 et configuration des commutateurs et routeurs Cisco.
+
+### IA appliquée au travail technique
+
+J’utilise les outils d’IA générative, notamment ChatGPT, pour approfondir un diagnostic, développer et améliorer des scripts, et structurer la documentation. Je confronte les propositions au contexte réel, vérifie les commandes et teste les solutions dans le laboratoire avant de les retenir, avec une attention à la sécurité et à la confidentialité des données.
 
 ## À découvrir
 
-### 🎧 [Fréquence 3 — application iOS](https://apps.apple.com/us/app/fr%C3%A9quence-3/id641492127)
+### 🎧 [Fréquence 3 — application iOS](https://apps.apple.com/fr/app/id641492127)
 
 L’application iPhone et iPad que je développe bénévolement pour **Fréquence 3** : écouter la radio et ses différentes stations, retrouver les titres diffusés et emporter la musique en voiture grâce à **CarPlay**.
 
 Un projet qui réunit développement iOS, streaming audio et intégration à l’écosystème Apple.
 
-[![Disponible sur l’App Store](https://img.shields.io/badge/Télécharger_sur_l’App_Store-FCC500?style=for-the-badge&logo=appstore&logoColor=181818)](https://apps.apple.com/us/app/fr%C3%A9quence-3/id641492127)
+[![Disponible sur l’App Store](https://img.shields.io/badge/Télécharger_sur_l’App_Store-FCC500?style=for-the-badge&logo=appstore&logoColor=181818)](https://apps.apple.com/fr/app/id641492127)
 
 ### 🔐 [PassLab](https://passlab.mauras.fr)
 Mon générateur de mots de passe et de phrases de passe, accessible depuis un navigateur sur ordinateur ou mobile.
